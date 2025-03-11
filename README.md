@@ -77,3 +77,11 @@ The dataset used for this project is sourced from Kaggle: [Amazon Sales Dataset]
 - **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/xxtt)  
 
 Feel free to connect and explore my work!
+
+<br>
+
+## Disclaimer
+
+**This project is intended solely for educational and portfolio purposes**. The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset/data) and does not represent real data from Amazon. All analyses, visualizations, and insights generated from this dataset are fictional and are created to demonstrate data analysis and visualization skills. This project is not affiliated with or endorsed by Amazon in any way.
+
+<br>
