@@ -1,6 +1,6 @@
 # Amazon Comprehensive Sales Analysis Dashboard
 
-This project demonstrates a **Power BI dashboard** designed to analyze and visualize **Amazon's business performance over four years (2011–2014)**. It provides insights into sales trends, profitability, regional performance (by state and city), and operational efficiency.
+This project demonstrates a **Power BI dashboard** designed to analyze and visualize **Amazon's business performance over four years (2011–2014)**. It provides insights into sales trends, profitability, product performance, regional performance (by state and city), and operational efficiency.
 
 <br>
 
